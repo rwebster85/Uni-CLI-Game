@@ -1,0 +1,50 @@
+#==========================================================================================#
+#               .........................'....''''..............'...                       #
+#         ................................''''''''''........''........                     #
+#      ..........................'...'''''''''','''',,''',,'........''...                  #
+#    ............................'''..'''''''',,;::ccc::;,..........',,'..                 #
+#    ..............................'..'',,;;:::cldxxxdoc;'.........',,''...                #
+#      .............................'',;;:coodxxkOOOOOxo:,........'''.......               #
+#       ................... .....''',;:clodxkkO00000O00kl;'.''..'''''.......               #
+#         ....................'',;:clodxxkOOO000OOOOO000kl,.''''.''''.... ...              #
+#          .......''''''',,;;:ccloddxxkkkOOOOOOOOOOOOOO0Ox:''','.............              #
+#           .....,:ccccclllooodddxxkkkkkkkkOOOOOOOOO0OOOOko;''...............              #
+#            ....:lllllooooddxxxkxxkkkkkkkkkkOOOOOOO0OO0Okdc,................              #
+#            ....:lllooooddddxxxxxkkkkkkkkkkOOOOOOO00OOOOkxl;'...............              #
+#             ...;lllooddddxxxkkkkkkkkkkOOkkkkkkkOOO0OOOOOkdl;...............              #
+#             ...,looddxxxxxxxkkkkkkkkkkxoolllccccoxkkkOOOOOxl,..............              #
+#              ..,c:::cldxxxxxkkkkkxxol:;,'',,;:clllodkkOOOOOkl,.........',;;.             #
+#               .',....';codkkkkkxxdoc;;;:cloodxkkkkxdxkkkkkkxo;..',,''':xOOko'            #
+#                .,;::;;;;:ldxxxxxddllcllddxxxxxxkkkkkxxxdoc;,....,:;';xO0OOkko.           #
+#               ..;loooolcccloddddxxdooollcc:::::c::;::;,'.......',,';dOkO0Okxdc           #
+#            ... .,:c::::;;;;::cldddoc:;,,,,''...'''...........'',;,cxOOkkO0Oddc.          #
+#           .......''''....'''.'''''',:::;;:cc,..,;:;;,....';coooc;ck0OxoooxOkx:           #
+#          ...'.....,;:,..',,,'.',;''colc:;:cccccccloo,..;oxkOOkxoclk00Oo::lxOx'           #
+#          ..','..,;::cc::;;;:;,cxkx::oolc:cccloddxkkOc.:kOOkOOOkoldO000kl:okOl.           #
+#           ...';:::clloolc::cccdkO0kc:ooollllodxkkOOO:,d0OOOOOOxddxO00kxxkO0k,            #
+#             ..,::::looollclc:cxk000kl:clllllooddddolcd00OOOOOkxdxk00Okk000Ol.            #
+#              .';:::looolcc:;;lkO0000Oxc::::::ccllooxO0000OOkkxdodk0OOOOO0Oo.             #
+#                ..,;:c:::;;;:oxkOO00OOOOxddddddxkkkO000000OOOxddddk000000x:.              #
+#                  .:ollllllodxkkkO00O00OOxoodkkkkkOO000000OOOxodxkOOOkkdc.                #
+#                   ;oooddddddxxkkOOkxooxkkdoodkkOOO00000OOOOOkxkOOOOOxc'                  #
+#                   ,oddxxxddoddddxkxxxxxxkkkxddxkOO00000OOOOOOOOOOOOOkc.                  #
+#                   'ldxxxxdoddolodxxxkOOOOkkkkxdxkOOOOOOOOOOOOOOOOOOOkl.                  #
+#                   .cdxxxxddooooodxddkOOOkkkkkkkkkkOOOOOOOOOOOOOOOOOOkl.                  #
+#                    ,ddxxxddoooodxxxxxkkOOOOOOkkOOkOOOOOOOOOOOOOOOOOOxc;.                 #
+#                    .ldxxddddoooooddddddxxxxxxdoxkkkOOOOOOOOOOOOOkOO0x;';;'               #
+#                    .:dxxdddolllccllllllodddddoodxxxkOOOOOOOOOOOkkOO0x;..;l,              #
+#                     .ldxxddolcccllooddxxkkkkOO0OkxkOOOOOOOOkkOkkkOOOk:. 'dl..            #
+#                      ,odxddddoddddddxxkkOOOO000OOkkOOOOkOOkkkkkkOOOOkl..,kx,..           #
+#                      .:oddddddddxxddxxkkOOOOOOOOOOOOOkOkkOkkkkkOOOOOOo''d0k;...          #
+#                      ..,ldddddddxxxxxxkkOOOOOOOOOOOOkkkkOkkkkkOOOOOOOo;o00k;.....        #
+#                        .'lddddddddxxxkkkOOOOOOOOOOOkkkkkkkkkkkOOOOOOxld000x,......       #
+#                          .cddddddddxxxkkkOOOOOOOOOOkkkkkxkkkOOOOOOOxdk000Oc.......       #
+#                           .ldodddxxxxkkkkkkOOOOOkkkkkkxxkkOOOOOOOkdx0K000o'.......       #
+#                           ,ollodddxxxxxxxxkkkkkkkkxxxxxkkOkkkkOxddO0K000x,........       #
+#                          .ldc;:codddddxxxxxxxxxxxxxxxkkkkkkkkdoox0K0000k:.........       #
+#==========================================================================================#
+#                                                                                          #
+#                                     Fancy another go?                                    #
+#                                                                                          #
+#==========================================================================================#
+

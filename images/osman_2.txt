@@ -1,0 +1,39 @@
+#==========================================================================================#
+#             ...';cldxxkkxxkkOOOOOO00000000K0000000000OOOOOOOOOkkkkkkkxo:'.               #
+#              ...,:codxkkkkkkkOOOOOOOOOOOOOOOOOOOOOOOOOOOO00Okkkkkkkkkxoc,..              #
+#               ..',;coxxkkkkkkkkOOOOO000OOOOOOOOOOO00000OOkkkkkkkkkkkkxol:..              #
+#                ..';cldxkkkkkkkkkkOOOOOOOOOOO0000000OOOOOOOOOOkkkkkkkkxdoc'.              #
+#                 ..;clodkkkkOOOOO0000000OOOOOO000000000000OOOOOkxddodxxdll;.              #
+#                 ..;coodxxkOOOOOOOO000000OOOOOOOOOOOOOOOOOOkkdoc:,,'';clooc.              #
+#                  .;looodxxolllodxxxxkOOO00OOOOOOOkkOOOOkkdl:,'..',::;,,col;.   .:dl.     #
+#                  .:looooo;......'',,:coxkOOOOOOOOOkkkxddl,'...';lxxxdoc:co:..  .:do:.    #
+#                  .:loolc,';::;,'.....',:ldkkkkkkkkkxxolc;'',;codxxxxxxdlclc'.   ,lll,    #
+#      .''..      .':lll:,;lddxxdoc:;,,,,,:codxxxxxxxxdlc;,,;:ccllooodddoolll,....;ood:    #
+#    .:oxkxd:...  .':llc::lodddoollllc::;;,;:ccldxxxxxdc;;;::cccc:;;,''',;;,'.....cxxx:    #
+#    ':;:ldxd;.'....;clc:clloollllcc:;;,,,,'',,;ldxkkxo:;;,'.''........',...      ckkk;    #
+#    'l;,:cloc,,,'....,,''''','''........''......',;;'....,;,;c,..';l:;lo::o;... .cxkx'    #
+#    .llclddlc:;,''... ...  ....,'..';olcccclcc;.  ..   .:xdlllc:;;cccloo:co:..  .cxOd.    #
+#     .codxdl:;;;'''... ...':c:coc;;;lddoooooooo:..:ool,.;oolcclllollcl:;:ll;'. .clxOc     #
+#      .cdxdoc:cl,..,'. ...cdol::clllllllollodxx:.lO000k;,oddoooooddddoc;:l:,' .cdoxx'     #
+#       .ckkxddkx:..;l:'. .ldl::clloooooddxxkxxo',xO000Od,;dxxxdddddddolloo:,..,oooxl.     #
+#        .okkxxxxo,.':lo:..:ollloodddddxkkkxxol,'okO000Oko;,cdkkkkxxxxddool;'',:lood;      #
+#         .ldxkxddc'.,cll:..ldddddddddxxkkxdc,.,oxxkO00Okkxl,;:cclccccc::cccll;;ooo:.      #
+#          .cdxdddo;.':ccll,':lodddddoolll:,,:ldxxxkO000Okkkxocc:cc:ccclodxdol:cxxc.       #
+#           .cddddol,.,ccloolcccllllc:;;;:clodxkxxkO000K0OkkkkkkkkOkkkxxkxxdolccl:.        #
+#            .;dkkkdc;,:loooooddxxkxxxxkkkOxdxkkxxkO00000OkxxxxxOO000OOOOOkxdo,.           #
+#              'lxxxol::oxxxdxxkO00KKK000OkddxxdocldkkkkkxlclodxxkOOOOOOOkkxxo.            #
+#                .'.'cllodxxkkOO0000K0000kxxdlcc;.':llllcc;,coxkxxkOOOOOOkkxdo.            #
+#                    .looddxxkkOO000000Okxxkkdoolc:;;;;:cccldkO0OkxxkOOkkkxxdl.            #
+#                     ,llodxxxkkOOOOOOOkxxkOOOOkkkxdc:cclodxkOOOOOOkkkkkkxxddl.            #
+#                     .:lodxxxkkkkkkOkkxkOOOOOOkkkkOkxxxkOOOOOOOOOOOkkkkkxxddc.            #
+#                      .coddxxxxkkkkkkkOOOOOkOOOOOO0000000OOOOOkkkkkkkxkkxxddc.            #
+#                      .;lodxxxkkkkkkkkkkkkkkkkOOOOOOOOOkkxxxxxddoodxxxxkxxdd;             #
+#                       .codxxxkkkOOkkkxxxdodddxxxdddddoolccllccccclodxkkxddl.             #
+#                        ,codxxxkkOOOkxdol:cllllccccccc:cllllllloxkkxkkOkdod:.             #
+#                        .;coddxxkkOOOkkxxxdooodddxxxkkkkOOkxdddxkOOOkkkdool'              #
+#                         .:coddxxkOOOOOOOOkxxxxxxxxxxkkxxxdddxxkkkkkkkxooo;               #
+#                          .:codddxxkOOOOOOOkxxxxxddooooooooddxxkkkkkkxoloc.               #
+#                           ':clooddxkkOOOkkkkxxxxdddoooodddxxxkkkkkkxdlol'                #
+#                            .:clloddxkkkOOOkkkkkxxxkkOOOOOkkOkkkkkkxdolo;                 #
+#                             .;clloodxxkkOOOOOOO0OOOOO0OOOOOOOOOkkxdoll;                  #
+#==========================================================================================#
